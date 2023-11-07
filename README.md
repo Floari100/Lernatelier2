@@ -39,3 +39,10 @@ bekannt gemacht und dann schon angefangen kleine Sachen für die Welt zu machen.
 - [ ] Ich möchte mit Youtube Videos mehr über Roblox Studio lernen
 - [ ] Ich möchte anfangen meinen Teil der Welt zu erstellen das kann vielleicht 1-3h brauchen
 - [ ] Ich möchte mit Youtube Videos die erste Programme schreiben um zu üben
+
+Heute habe Ich ungefähr 1h lang mich mit der Roblox obby Welt beschäftigt. Dann aber hatte ich das Gespräch und ich habe die Empfehlungen angenommen und mit meiner Gruppe geredet. Ich habe entschieden jetzt ein eigenes Projekt zu erstellen. Ich habe Ihre Idee angenommen und mache jetzt ein Freerunner in einer 2D Welt. Ich habe Windows 10 und Unity auf meinen Mac installiert. (63 Wörter)
+
+## Arbeitspakete für 14.11.23
+- [ ] https://www.youtube.com/watch?v=cqd1u_dfrkc Ich werde die Basics von Unity lernen.
+- [ ] https://www.youtube.com/watch?v=XtQMytORBmM Ich werde dieses Video anschauen, mich hiermit beschäftigen und es nachmachen.
+- [ ] Ich werde anfangen Flappy Bird zu programmieren und an diesem Tag kommen so weit ich kann ohne Tutorials.
