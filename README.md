@@ -52,4 +52,4 @@ Heute habe ich mir die 2 Videos angeschaut. Nachdem ich mir probiert habe alles 
 ## Arbeitspakete für 21.11.23
 - [ ] Ich will denn Hintergrund für das Flappy bird machen und ihn so animieren dass es sich ein wenig zurück bewegt.
 - [ ] Ich möchte die Pfeiler machen und sie so programmieren, dass das Spiel aufhört wenn man diese Berührt.
-- [ ] Ich möchte die Pfeiler randomizen und es sollten immer weitere kommen wenn man weiter geht.
+- [ ] Ich möchte die Pfeiler randomizen und es sollten immer weitere kommen wenn man weiter geht. 
