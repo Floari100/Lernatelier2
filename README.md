@@ -46,3 +46,10 @@ Heute habe Ich ungefähr 1h lang mich mit der Roblox obby Welt beschäftigt. Dan
 - [ ] https://www.youtube.com/watch?v=cqd1u_dfrkc Ich werde die Basics von Unity lernen.
 - [ ] https://www.youtube.com/watch?v=XtQMytORBmM Ich werde dieses Video anschauen, mich hiermit beschäftigen und es nachmachen.
 - [ ] Ich werde anfangen Flappy Bird zu programmieren und an diesem Tag kommen so weit ich kann ohne Tutorials.
+
+Heute habe ich mir die 2 Videos angeschaut. Nachdem ich mir probiert habe alles zu merken habe ich probiert diese Videos ohne abschauen nachzumachen, das kam nicht gut und ich machte sie dann einfach mit den Videos gleichzeitig. Die letzte Stunde habe ich mir ein bild von einem flappy Bird aus dem Internet geholt und ihn so programmiert dass wenn ich Tab drücke er spring. (65 Wörter)
+
+## Arbeitspakete für 21.11.23
+- [ ] Ich will denn Hintergrund für das Flappy bird machen und ihn so animieren dass es sich ein wenig zurück bewegt.
+- [ ] Ich möchte die Pfeiler machen und sie so programmieren, dass das Spiel aufhört wenn man diese Berührt.
+- [ ] Ich möchte die Pfeiler randomizen und es sollten immer weitere kommen wenn man weiter geht.
