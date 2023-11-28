@@ -49,7 +49,14 @@ Heute habe Ich ungefähr 1h lang mich mit der Roblox obby Welt beschäftigt. Dan
 
 Heute habe ich mir die 2 Videos angeschaut. Nachdem ich mir probiert habe alles zu merken habe ich probiert diese Videos ohne abschauen nachzumachen, das kam nicht gut und ich machte sie dann einfach mit den Videos gleichzeitig. Die letzte Stunde habe ich mir ein bild von einem flappy Bird aus dem Internet geholt und ihn so programmiert dass wenn ich Tab drücke er spring. (65 Wörter)
 
-## Arbeitspakete für 21.11.23
+## Arbeitspakete für 28.11.23
 - [ ] Ich will denn Hintergrund für das Flappy bird machen und ihn so animieren dass es sich ein wenig zurück bewegt.
 - [ ] Ich möchte die Pfeiler machen und sie so programmieren, dass das Spiel aufhört wenn man diese Berührt.
 - [ ] Ich möchte die Pfeiler randomizen und es sollten immer weitere kommen wenn man weiter geht. 
+
+Ich habe heute mir vorgenommen die 3 Arbeitspakete zu fertigen, dies habe ich auch erfolgreich machen können. Den Hintergrund konnte ich einfach ohne Hilfe machen. Bei den Pfeilern hatte ich mehr Probleme, da das Spiel einfach weiter ging aber das habe ich gelöst mit Hilfe von Youtube. Die Pfeiler zu randomizen konnte ich selber nicht also musste ich auch hier Hilfe von Youtube holen.
+
+## Arbeitspakete für 5.12.23
+- [ ] Excel in eine Text-Datei umformen und die einzelnen Zeilen der Tabelle in Arrays umwandeln.
+- [ ] Die Arrays mit Worten filtern und nur die aufzeigen, die das Wort beinhalten.
+- [ ] Ein Startpunkt und Schlusspunkt Animation/freeze machen für das FlappyBird erstellen.
