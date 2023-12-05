@@ -60,3 +60,10 @@ Ich habe heute mir vorgenommen die 3 Arbeitspakete zu fertigen, dies habe ich au
 - [ ] Excel in eine Text-Datei umformen und die einzelnen Zeilen der Tabelle in Arrays umwandeln.
 - [ ] Die Arrays mit Worten filtern und nur die aufzeigen, die das Wort beinhalten.
 - [ ] Ein Startpunkt und Schlusspunkt Animation/freeze machen für das FlappyBird erstellen.
+
+Ich habe heute nicht weiter an meinem Projekt arbeiten können da ich es auf meinem PC zuhause gemacht haben und vergessen habe es auf meinen Laptop zu transferieren. Ich habe Mein Projekt WasLesen dass wie machen mussten weiter ausgeprägt und ein Liste erstellt wo alle Bücher aus einer Text-Datei gespeichert werden. Dann Habe ich noch an meinem Portfolio für das 162 Modul gearbeitet, wo man Daten vom Bundesamt auswerten muss. (70 Wörter)
+
+## Arbeitspakete für 12.12.23
+- [ ] Ein Startpunkt und Schlusspunkt Animation/freeze machen für das FlappyBird erstellen.
+- [ ] Das Portfolio für das Modul 162 fertig stellen.
+- [ ] Den 2. Adventstag vom dem ProgrammierKalender machen.
